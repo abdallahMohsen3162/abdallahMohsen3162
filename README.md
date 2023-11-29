@@ -1,5 +1,5 @@
 علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما 
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahmohsen3162&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahmohsen3162" /> </p>
 
