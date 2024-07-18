@@ -1,9 +1,7 @@
 علمكم الله ما ينفعكم و نفعكم بما تعلمتم و زادكم علما 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdallahmohsen3162&label=Profile%20views&color=0e75b6&style=flat" alt="abdallahmohsen3162" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdallahmohsen3162" alt="abdallahmohsen3162" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
