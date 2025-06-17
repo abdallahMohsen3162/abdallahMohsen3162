@@ -60,13 +60,14 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40" />
   </a>
 
-  <!-- NestJS -->
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
-  </a>
+<!-- NestJS -->
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+  <img src="https://nestjs.com/img/logo-small.svg" alt="nestjs" width="40" height="40" />
+</a>
 
-  <!-- Ant Design -->
-  <a href="https://ant.design/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/ant-design.svg" alt="ant-design" width="40" height="40" />
-  </a>
+<!-- Ant Design -->
+<a href="https://ant.design/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design_Logo.svg" alt="ant-design" width="40" height="40" />
+</a>
+
 </p>
