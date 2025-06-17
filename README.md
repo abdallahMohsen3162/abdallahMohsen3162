@@ -7,7 +7,7 @@
   
   <!-- CanvasJS -->
   <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
+    <img src="https://canvasjs.com/wp-content/uploads/images/logo/canvasjs-logo-240x100.webp" alt="canvasjs" width="40" height="40" />
   </a>
   
   <!-- JavaScript -->
