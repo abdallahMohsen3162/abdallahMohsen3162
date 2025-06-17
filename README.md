@@ -67,7 +67,7 @@
 
 <!-- Ant Design -->
 <a href="https://ant.design/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Ant_Design_Logo.svg" alt="ant-design" width="40" height="40" />
+  <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" alt="ant-design" width="40" height="40" />
 </a>
 
 </p>
