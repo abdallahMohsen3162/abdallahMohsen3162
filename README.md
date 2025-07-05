@@ -86,7 +86,7 @@
         <br /><strong>ASP.NET Core</strong>
       </td>
       <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="65" height="65" alt="Laravel" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="65" height="65" alt="Laravel" />
         <br /><strong>PHP Laravel</strong>
       </td>
     </tr>
