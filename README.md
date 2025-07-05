@@ -131,6 +131,12 @@
 
 </div>
 
-<pre> ```javascript function greet(name) { console.log("Hello, " + name + "!"); } greet("Abdullah"); ``` </pre>
+```javascript
+function greet(name) {
+  console.log("Hello, " + name + "!");
+}
+
+greet("Abdullah");
+
 
   
