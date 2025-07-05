@@ -63,6 +63,12 @@
         <br /><strong>Components UI</strong>
       </td>
     </tr>
+    <tr>
+      <td align="center" width="140">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS" />
+        <br /><strong>Tailwind CSS</strong>
+      </td>
+    </tr>
   </table>
 </div>
 
