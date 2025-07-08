@@ -1,3 +1,9 @@
+<br/>
+
+<!-- Profile View Counter -->
+<img src="https://komarev.com/ghpvc/?username=abdallahMohsen3162&color=blue&style=flat" alt="Profile views" />
+
+</div>
 # 🚀 Languages & Tools
 
 <div align="center">
