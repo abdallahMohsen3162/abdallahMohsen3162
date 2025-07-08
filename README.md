@@ -173,12 +173,3 @@
   
 ## 💡 **Tech Stack Highlights**
 
-```
-🚀 Frontend:  JavaScript • TypeScript • React • Next.js • Vue.js
-🎨 Styling:   Bootstrap • Ant Design • Redux • Material-UI • Components UI
-🔧 Backend:   Python • NestJS • ASP.NET Core • PHP Laravel
-🗄️ Database:  MySQL • PostgreSQL • MS SQL Server • MongoDB
-☁️ Cloud:     Vercel • Azure • Firebase • Cloudinary • Linux • Docker • Nginx
-```
-
-</div>
