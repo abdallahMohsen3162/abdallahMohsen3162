@@ -2,6 +2,56 @@
 <img src="https://komarev.com/ghpvc/?username=abdallahMohsen3162&color=blue&style=flat" alt="Profile views" />
 
 </div>
+
+## 📫 **Let's Connect!**
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate+and+build+amazing+things!" alt="Connect SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <a href="https://www.linkedin.com/in/abdallah-mohsen-3a9553227/" target="_blank">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" alt="LinkedIn" />
+          <br /><strong>LinkedIn</strong>
+          <br /><span>Let's network!</span>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="mailto:abdallah.mohsen.dev@gmail.com" target="_blank">
+          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="80" height="80" alt="Email" />
+          <br /><strong>Email</strong>
+          <br /><span>Drop me a line!</span>
+        </a>
+      </td>
+      <td align="center" width="200">
+        <a href="https://wa.me/01147848630" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" width="80" height="80" alt="WhatsApp" />
+          <br /><strong>WhatsApp</strong>
+          <br /><span>Quick chat!</span>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <br/>
+  
+  **📧 abdallah.mohsen.dev@gmail.com**
+  
+  **📱 +20 114 784 8630**
+  
+  **🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdallah-mohsen-3a9553227/)**
+  
+</div>
+
+---
+
 # 🚀 Languages & Tools
 
 <div align="center">
@@ -171,54 +221,7 @@
   </table>
 </div>
 
----
 
-## 📫 **Let's Connect!**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate+and+build+amazing+things!" alt="Connect SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://www.linkedin.com/in/abdallah-mohsen-3a9553227/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" alt="LinkedIn" />
-          <br /><strong>LinkedIn</strong>
-          <br /><span>Let's network!</span>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="mailto:abdallah.mohsen.dev@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="80" height="80" alt="Email" />
-          <br /><strong>Email</strong>
-          <br /><span>Drop me a line!</span>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://wa.me/01147848630" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" width="80" height="80" alt="WhatsApp" />
-          <br /><strong>WhatsApp</strong>
-          <br /><span>Quick chat!</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br/>
-  
-  **📧 abdallah.mohsen.dev@gmail.com**
-  
-  **📱 +20 114 784 8630**
-  
-  **🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdallah-mohsen-3a9553227/)**
-  
-</div>
 
 ---
 
