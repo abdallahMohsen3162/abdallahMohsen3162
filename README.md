@@ -1,78 +1,8 @@
-<!-- Profile View Counter -->
-<!-- <img src="https://komarev.com/ghpvc/?username=abdallahMohsen3162&color=blue&style=flat" alt="Profile views" /> -->
-
-</div>
-
-## 📫 **Let's Connect!**
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=Ready+to+collaborate+and+build+amazing+things!" alt="Connect SVG" />
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="200">
-        <a href="https://www.linkedin.com/in/abdallah-mohsen-3a9553227/" target="_blank">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="80" height="80" alt="LinkedIn" />
-          <br /><strong>LinkedIn</strong>
-          <br /><span>Let's network!</span>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="mailto:abdallah.mohsen.dev@gmail.com" target="_blank">
-          <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="80" height="80" alt="Email" />
-          <br /><strong>Email</strong>
-          <br /><span>Drop me a line!</span>
-        </a>
-      </td>
-      <td align="center" width="200">
-        <a href="https://wa.me/01147848630" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2044px-WhatsApp.svg.png" width="80" height="80" alt="WhatsApp" />
-          <br /><strong>WhatsApp</strong>
-          <br /><span>Quick chat!</span>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <br/>
-  
-  **📧 abdallah.mohsen.dev@gmail.com**
-  
-  **📱 +20 114 784 8630**
-  
-  **🔗 [LinkedIn Profile](https://www.linkedin.com/in/abdallah-mohsen-3a9553227/)**
-  
-</div>
-
----
-
-# 🚀 Languages & Tools
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Technologies+that+power+modern+development;Building+tomorrow's+solutions+today" alt="Typing SVG" />
-</div>
-
-<br/>
-
 ## 🌟 **Frontend Technologies**
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="65" height="65" alt="JavaScript" />
-        <br /><strong>JavaScript</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript" />
-        <br /><strong>TypeScript</strong>
-      </td>
       <td align="center" width="140">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="65" height="65" alt="React" />
         <br /><strong>React</strong>
@@ -82,8 +12,8 @@
         <br /><strong>Next.js</strong>
       </td>
       <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="65" height="65" alt="Vue.js" />
-        <br /><strong>Vue.js</strong>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="65" height="65" alt="TypeScript" />
+        <br /><strong>TypeScript</strong>
       </td>
     </tr>
   </table>
@@ -97,30 +27,16 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow@2x.png" width="65" height="65" alt="Bootstrap" />
-        <br /><strong>Bootstrap</strong>
+        <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon-32x32.png" width="65" height="65" alt="shadcn/ui" />
+        <br /><strong>shadcn/ui</strong>
       </td>
       <td align="center" width="140">
         <img src="https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg" width="65" height="65" alt="Ant Design" />
         <br /><strong>Ant Design</strong>
       </td>
       <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="65" height="65" alt="Redux" />
-        <br /><strong>Redux</strong>
-      </td>
-      <td align="center" width="140">
         <img src="https://mui.com/static/logo.png" width="65" height="65" alt="Material-UI" />
         <br /><strong>Material-UI</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/shadcn-ui/ui/main/apps/www/public/favicon-32x32.png" width="65" height="65" alt="Components UI" />
-        <br /><strong>Components UI</strong>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="140">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="65" height="65" alt="Tailwind CSS" />
-        <br /><strong>Tailwind CSS</strong>
       </td>
     </tr>
   </table>
@@ -134,20 +50,8 @@
   <table>
     <tr>
       <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="65" height="65" alt="Python" />
-        <br /><strong>Python</strong>
-      </td>
-      <td align="center" width="140">
         <img src="https://nestjs.com/img/logo-small.svg" width="65" height="65" alt="NestJS" />
         <br /><strong>NestJS</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="65" height="65" alt="ASP.NET Core" />
-        <br /><strong>ASP.NET Core</strong>
-      </td>
-      <td align="center" width="140">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="65" height="65" alt="Laravel" />
-        <br /><strong>PHP Laravel</strong>
       </td>
     </tr>
   </table>
@@ -221,25 +125,8 @@
   </table>
 </div>
 
-
-
 ---
 
 <div align="center">
-  
+
 ## 💡 **Tech Stack Highlights**
-
-```
-🚀 Frontend:  JavaScript • TypeScript • React • Next.js • Vue.js
-🎨 Styling:   Bootstrap • Ant Design • Redux • Material-UI • Components UI
-🔧 Backend:   Python • NestJS • ASP.NET Core • PHP Laravel
-🗄️ Database:  MySQL • PostgreSQL • MS SQL Server • MongoDB
-☁️ Cloud:     Vercel • Azure • Firebase • Cloudinary • Linux • Docker • Nginx
-```
-
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+⭐;Always+open+to+new+opportunities+and+collaborations!" alt="Footer SVG" />
-</div>
