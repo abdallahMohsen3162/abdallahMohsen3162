@@ -129,4 +129,3 @@
 
 <div align="center">
 
-## 💡 **Tech Stack Highlights**
