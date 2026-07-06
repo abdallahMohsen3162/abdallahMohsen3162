@@ -5,7 +5,7 @@
   Cairo, Egypt &nbsp;|&nbsp;
   <a href="mailto:abdallah.mohsen.dev@gmail.com">abdallah.mohsen.dev@gmail.com</a> &nbsp;|&nbsp;
   <a href="https://github.com/abdallahMohsen3162">GitHub</a> &nbsp;|&nbsp;
-  <a href="https://linkedin.com/in/abdallah-mohsen">LinkedIn</a>
+  <a href="[https://linkedin.com/in/abdallah-mohsen](https://www.linkedin.com/in/abdallah-mohsen-3a9553227/)">LinkedIn</a>
 </p>
 
 ---
